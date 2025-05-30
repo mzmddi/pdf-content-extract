@@ -11,3 +11,6 @@
 
 */output/
 # ignore the output files
+
+*/pycache
+# any and all pycache
