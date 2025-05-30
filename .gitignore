@@ -1,0 +1,13 @@
+# gitignore file so that we dont commit/push certain files
+
+*/venv
+# ignore venv
+
+*/log/*.log
+# ignore log files but not logger file
+
+*/input/
+# ignore the input files
+
+*/output/
+# ignore the output files
