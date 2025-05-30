@@ -6,11 +6,11 @@
 */log/*.log
 # ignore log files but not logger file
 
-*/input/
+/input/
 # ignore the input files
 
-*/output/
+/output/
 # ignore the output files
 
-*/pycache
+*.pyc
 # any and all pycache
